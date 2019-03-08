@@ -14,6 +14,10 @@
 
 # Lets-get-arrested project
 
+<a href="https://github.com/hamukazu/lets-get-arrested">
+  <img src="https://img.shields.io/badge/Let's%20get-arrested-red.svg" alt="Let's get arrested badge">
+</a>
+
 In Japan, a schoolgirl was caught by the police for putting a link to a website with an endless loop of alert in JavaScript like this:
 
 ```js
